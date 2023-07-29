@@ -4,11 +4,12 @@
 }
 
 header{
-    padding: 150px;
+    padding: 10rem;
     text-align: center;
     background-image: url(./img/inf.jpg);
     background-size: cover;
     margin: 0;
+    display: flexbox;
   
 
 }
@@ -154,8 +155,18 @@ body {
     .redes{
       text-decoration: none;
     }
+
     ul.redes li{
       color: #EFF5F5;
+    }
+
+    @media (min-with:320px) {
+      /*mobile*/
+      
+    }
+    @media (min-with:768px){
+      /*tablet*/
+
     }
   
     

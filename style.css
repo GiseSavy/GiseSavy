@@ -154,6 +154,9 @@ body {
     .redes{
       text-decoration: none;
     }
+    ul.redes li{
+      color: #EFF5F5;
+    }
   
     
     
